@@ -16,7 +16,7 @@ Default Qt Client
 Android Client
 -
 iOS Client
--
+- Confirmation before server deletion
 Server
 -
 
